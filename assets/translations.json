@@ -1,0 +1,40 @@
+{
+  "en": {
+    "currentPrayer": "Current Prayer",
+    "istanbul": "Istanbul",
+    "nextPrayer": "Next Prayer",
+    "setYourDailyGoal": "Set Your Daily Goal",
+    "youhaventsetadailygoalyet.": "You haven't setadailygoalyet",
+    "setNow": "Set now",
+    "startYourQuranJourney": "Start Your Quran Journey",
+    "YouhaventstartedaQurancompletionyet.": "You haven't started a Quran completion yet.",
+    "startNow": "Start now",
+    "todaysDua": "Todays Dua",
+    "prayer": "Prayer",
+    "qibla": "Qibla",
+    "hadith": "Hadith",
+    "tesbih": "Tesbih",
+    "podcast": "Podcast",
+    "videos": "Videos",
+    "todayshadith": "Todays hadith"
+  },
+  "tr": {
+    "currentPrayer": "******",
+    "istanbul": "******",
+    "nextPrayer": "******.",
+    "setYourDailyGoal": "******",
+    "youhaventsetadailygoalyet.": "******",
+    "setNow": "....",
+    "startYourQuranJourney": "******",
+    "YouhaventstartedaQurancompletionyet.": "******",
+    "startNow": "******",
+    "todaysDua": "******",
+    "prayer": "******",
+    "qibla": "******",
+    "hadith": "******",
+    "tesbih": "******",
+    "podcast": "******",
+    "videos": "******",
+    "todayshadith": "******"
+  }
+}
