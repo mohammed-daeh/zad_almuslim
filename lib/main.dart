@@ -1,8 +1,8 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import 'package:quran/custom/bottom_navigation_bar/bottom_navigation_bar_view.dart';
-import 'package:quran/translation/translation.dart';
+import 'package:quran/custom_widgets/bottom_navigation_bar/main_home.dart';
+import 'package:quran/core/translation/translation.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

@@ -19,6 +19,8 @@ dependencies:
   cupertino_icons: ^1.0.6
   flutter_svg: ^2.0.17
   get: ^4.6.5
+  intl: ^0.19.0
+
 
 
 dev_dependencies:
@@ -35,7 +37,13 @@ flutter:
   uses-material-design: true
 
   assets:
+
+    # - assets/
     - assets/images/
+    - assets/images/duaPage/
+    - assets/images/quranPage/
+    - assets/images/khatamPage/
+    - assets/images/suraNames/
     - assets/icons/
     - assets/translations.json
   #   - images/a_dot_ham.jpeg
